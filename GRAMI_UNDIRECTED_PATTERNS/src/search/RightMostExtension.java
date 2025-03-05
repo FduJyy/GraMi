@@ -27,8 +27,7 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.TreeMap;
 
-import javax.jws.Oneway;
-import javax.rmi.CORBA.Util;
+import utilities.MyPair;
 
 import CSP.Variable;
 
@@ -40,6 +39,7 @@ import dataStructures.Graph;
 import dataStructures.HPGraph;
 import dataStructures.HPListGraph;
 import dataStructures.HPMutableGraph;
+import dataStructures.StaticData;
 import dataStructures.freqComparator;
 
 
